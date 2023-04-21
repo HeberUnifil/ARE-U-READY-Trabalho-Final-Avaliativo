@@ -14,19 +14,19 @@
 
 
 # ----------Entregas--------------
-###### Arquivo do jogo zipado.
-###### Arquivo .jar
-###### JavaDocs e documentos axuliares
-###### Link da publicação no greenfoot
-###### Vídeo apresentando o jogo, suas funcionalidades e onde foi implementado a recursividade.
+- Arquivo do jogo zipado.
+- Arquivo .jar
+- JavaDocs e documentos axuliares
+- Link da publicação no greenfoot
+- Vídeo apresentando o jogo, suas funcionalidades e onde foi implementado a recursividade.
 # -----------------------------------------
 # --- Critérios avaliativos----
-###### 1 - Atender todos os requisitos.
-###### 2 - Complexidade do Game
-###### 3 - Se em dupla, espera-se o dobro de tamanho do jogo ou complexidade. Espera-se bom senso do aluno.
-###### 4 - Cuidado com Game Design.
-###### 5 - Documentação JavaDocs.
-###### 6 - Vídeo de apresentação.
+- 1 - Atender todos os requisitos.
+- 2 - Complexidade do Game
+- 3 - Se em dupla, espera-se o dobro de tamanho do jogo ou complexidade. Espera-se bom senso do aluno.
+- 4 - Cuidado com Game Design.
+- 5 - Documentação JavaDocs.
+- 6 - Vídeo de apresentação.
 
 
 ###### [Video do jogo no Youtube] (https://youtu.be/SOP_dLYYKsc)
