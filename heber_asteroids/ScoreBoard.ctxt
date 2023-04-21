@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ ScoreBoard.class\ cria\ o\ ator\ ScoreBoard\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=
+comment2.target=ScoreBoard()
+comment2.text=\r\n\ ScoreBoard()\ construtor\ da\ classe\ ScoreBoard\ \r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=score
+comment3.target=ScoreBoard(int)
+comment3.text=\r\n\ ScoreBoard()\ construtor\ da\ classe\ ScoreBoard\ \r\n\ \r\n\ @param\ int\ score\ [quantidade\ de\ pontos\ do\ jogador]\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=title\ prefix\ score
+comment4.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ makeImage()\ gera\ a\ imagem\ do\ placar\r\n\ \r\n\ @param\ \r\n\ \ String\ title\ [t\u00EDtulo\ do\ placar]\r\n\ \ String\ prefix\ [prefixo\ da\ quantidade\ de\ pontos]\r\n\ \ int\ score\ [quantidade\ de\ pontos\ do\ jogador]\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment5.params=
+comment5.target=void\ checkLifetime()
+comment5.text=\r\n\ checkLifetime()\ faz\ o\ placar\ piscar\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=6

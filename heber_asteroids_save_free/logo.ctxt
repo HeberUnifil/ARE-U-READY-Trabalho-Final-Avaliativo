@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=logo
+comment0.text=\ logo.class\ cria\ o\ ator\ logo\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=logo()
+comment1.text=\ logo()\ construtor\ da\ classe\ logo\r\n\ \r\n\ @param\ null\r\n\ @return\ logo\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=2

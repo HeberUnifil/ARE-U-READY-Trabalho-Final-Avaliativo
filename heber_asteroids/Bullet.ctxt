@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\ Bullet.class\ cria\ o\ ator\ Bullet\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Bullet()
+comment1.text=\ Bullet()\ construtor\ neutro\ da\ classe\ Bullet\r\n\ \r\n\ @param\ null\r\n\ @return\ Bullet\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=speed\ rotation
+comment2.target=Bullet(Vector,\ int)
+comment2.text=\ Bullet()\ construtor\ da\ classe\ Bullet\r\n\ \r\n\ @param\ \r\n\ \ Vector\ speed\ [vetor\ de\ velocidade\ do\ tiro]\r\n\ \ int\ rotation\ [direc\u00E3o\ do\ tiro]\r\n\ @return\ Bullet\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=
+comment4.target=void\ checkAsteroidHit()
+comment4.text=\r\n\ checkAsteroidHit()\ checa\ se\ o\ tiro\ acertou\ algum\ asteroid\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=5

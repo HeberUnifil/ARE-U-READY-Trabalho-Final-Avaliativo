@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\ Rocket.class\ cria\ o\ ator\ Rocket\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Rocket()
+comment1.text=\ Rocket()\ construtor\ da\ classe\ Rocket\r\n\ \r\n\ @param\ null\r\n\ @return\ Rocket\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\r\n\ checkKeys()\ checa\ se\ as\ teclas\ de\ movimento\ foram\ pressionadas\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=
+comment4.target=void\ fire()
+comment4.text=\r\n\ fire()\ atira\ se\ a\ arma\ do\ foguete\ estiver\ pronta\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment5.params=boosterOn
+comment5.target=void\ ignite(boolean)
+comment5.text=\r\n\ ignite()\ move\ o\ foguete\ pra\ frente\ e\ muda\ o\ sprite\ do\ foguete\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment6.params=
+comment6.target=void\ checkCollision()
+comment6.text=\r\n\ checkCollision()\ checa\ se\ o\ foguete\ bateu\ em\ algum\ asteroid\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment7.params=
+comment7.target=void\ startProtonWave()
+comment7.text=\r\n\ startProtonWave()\ cria\ um\ ataque\ de\ proton\ wave\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=8

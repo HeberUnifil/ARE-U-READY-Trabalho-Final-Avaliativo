@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RetryButton
+comment0.text=\r\n\ RetryButton()\ cria\ o\ ator\ RetryButton\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=RetryButton()
+comment1.text=\r\n\ RetryButton()\ construtor\ da\ classe\ RetryButton\ \r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=3

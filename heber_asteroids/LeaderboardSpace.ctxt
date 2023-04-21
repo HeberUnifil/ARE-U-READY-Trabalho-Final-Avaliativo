@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LeaderboardSpace
+comment0.text=\r\n\ LeaderboardSpace.class\ Tela\ de\ exposic\u00E3o\ do\ Highscore\ do\ jogo\r\n\ \r\n\ @param\ int\ pontos\ -\ Ao\ chamar\ essa\ classe,\ deve\ se\ passar\ os\ pontos\ que\ o\ jogador\ adquiriu\ durante\ a\ fase\ de\ jogo.\r\n\ \r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=pontos
+comment1.target=LeaderboardSpace(int)
+comment1.text=\r\n\ LeaderboardSpace()\ constutor\ da\ tela\ de\ exposic\u00E3o\ do\ Highscore\ do\ jogo\r\n\ \r\n\ @param\ int\ pontos\ -\ Ao\ chamar\ esse\ metodo,\ deve\ se\ passar\ os\ pontos\ que\ o\ jogador\ adquiriu\ durante\ a\ fase\ de\ jogo.\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=count
+comment2.target=void\ addAsteroids(int)
+comment2.text=\r\n\ addAsteroids()\ cria\ asteroids\ no\ espaco\r\n\ \r\n\ @param\ int\ count\ -\ Ao\ chamar\ esse\ metodo,\ deve\ se\ passar\ a\ quantidade\ de\ asterois\ da\ serem\ criados.\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=number
+comment3.target=void\ createStars(int)
+comment3.text=\r\n\ createStars()\ cria\ os\ pontos\ de\ estrelas\ no\ espaco\r\n\ \r\n\ @param\ int\ number\ -\ Ao\ chamar\ esse\ metodo,\ deve\ se\ passar\ os\ pontos\ de\ estrelas\ a\ serem\ criados.\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ prepare()\ gera\ o\ ator\ Scoreboard\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment5.params=nome\ pontos
+comment5.target=void\ save(java.lang.String,\ int)
+comment5.text=\r\n\ save()\ salva\ os\ pontos\ do\ jogados\r\n\ \r\n\ @param\ \r\n\ \ String\ nome\ [nome\ do\ jogador]\r\n\ \ int\ pontos\ [pontos\ adquiridos\ pelo\ jogador]\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=6

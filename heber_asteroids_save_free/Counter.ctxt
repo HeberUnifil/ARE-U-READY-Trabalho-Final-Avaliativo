@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Counter.class\ cria\ o\ contador\ de\ pontos\ do\ jogador\r\n\ \r\n\ @param\ \r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Counter()\ \u00E9\ o\ construtor\ da\ classe\ Counter\r\n\ \r\n\ @param\ \r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=prefix
+comment2.target=Counter(java.lang.String)
+comment2.text=\r\n\ Counter()\ \u00E9\ o\ construtor\ da\ classe\ Counter\r\n\ \r\n\ @param\ String\ prefix\ [variavel\ que\ inicializa\ o\ tamanho\ do\ contador]\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=score
+comment4.target=void\ add(int)
+comment4.text=\r\n\ add()\ adiciona\ pontos\ ao\ jogador\r\n\ \r\n\ @param\ int\ score\ [quantidade\ de\ pontos\ a\ serem\ dados\ ao\ jogador]\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ getValue()\ retorna\ a\ quantidade\ de\ pontos\ do\ jogador\r\n\ \r\n\ @param\ \r\n\ @return\ int\ [quantidade\ de\ pontos\ do\ jogador]\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment6.params=
+comment6.target=void\ updateImage()
+comment6.text=\r\n\ updateImage()\ troca\ a\ imagem\ do\ contador\ de\ acordo\ com\ a\ quantidade\ de\ pontos\r\n\ \r\n\ @param\ \r\n\ @return\ \r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=7

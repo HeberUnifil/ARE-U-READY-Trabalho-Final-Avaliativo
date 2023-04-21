@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=coin
+comment0.text=\ coin.class\ cria\ o\ ator\ coin\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\ -\ no\ caso\ ele\ roda\ a\ moeda\ e\ caso\ seja\ clicado\ ele\ inicia\ o\ jogo\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=2

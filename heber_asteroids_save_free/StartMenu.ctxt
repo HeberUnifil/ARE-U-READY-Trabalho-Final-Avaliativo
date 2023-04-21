@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StartMenu
+comment0.text=\r\n\ StartMenu.class\ cria\ o\ ambiente\ menu\ inicial\ do\ jogo\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=StartMenu()
+comment1.text=\r\n\ StartMenu()\ construtor\ da\ classe\ StartMenu\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=count
+comment2.target=void\ addAsteroids(int)
+comment2.text=\r\n\ addAsteroids()\ cria\ asteroids\ no\ espaco\r\n\ \r\n\ @param\ int\ count\ -\ Ao\ chamar\ esse\ metodo,\ deve\ se\ passar\ a\ quantidade\ de\ asterois\ da\ serem\ criados.\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=number
+comment3.target=void\ createStars(int)
+comment3.text=\r\n\ createStars()\ cria\ os\ pontos\ de\ estrelas\ no\ espaco\r\n\ \r\n\ @param\ int\ number\ -\ Ao\ chamar\ esse\ metodo,\ deve\ se\ passar\ os\ pontos\ de\ estrelas\ a\ serem\ criados.\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=4

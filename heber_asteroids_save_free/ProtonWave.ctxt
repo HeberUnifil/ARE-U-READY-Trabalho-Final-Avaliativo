@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ProtonWave
+comment0.text=\r\n\ ProtonWave()\ cria\ o\ ator\ ProtonWave\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ProtonWave()
+comment1.text=\r\n\ ProtonWave()\ construtor\ da\ classe\ ProtonWave\ \r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=
+comment2.target=void\ initializeImages()
+comment2.text=\r\n\ initializeImages()\ cria\ imagem\ de\ explos\u00E3o\ \r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=
+comment4.target=void\ grow()
+comment4.text=\r\n\ grow()\ aumenta\ o\ tamanho\ da\ explos\u00E3o\ \r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment5.params=
+comment5.target=void\ checkCollision()
+comment5.text=\r\n\ checkCollision()\ checa\ se\ o\ ator\ colide\ com\ outros\ ateroids\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=6

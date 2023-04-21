@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SaveManager
+comment0.text=\ SaveManager.class\ faz\ o\ controle\ dos\ saves\ dos\ jogadores\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ SaveManager()
+comment1.text=\r\n\ SaveManager()\ roda\ a\ rotina\ de\ save\ do\ jogo\r\n\ Essa\ rotina\ implica\ em\:\r\n\ \ -\ Ler\ o\ arquivo\ saves.txt\ e\ armazenar\ as\ pontua\u00E7\u00F5es\ em\ um\ mapa\r\n\ \ -\ Selecionar\ apenas\ as\ linhas\ com\ maior\ valor\ para\ cada\ jogador\r\n\ \ -\ Escrever\ o\ resultado\ no\ arquivo\ saves_temp.txt\r\n\ \ -\ apagar\ o\ arquivo\ saves.txt\ original\r\n\ \ -\ Renomear\ o\ arquivo\ saves_temp.txt\ para\ saves.txt,\ substituindo\ o\ arquivo\ original\r\n\ \ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=
+comment2.target=java.util.Map\ lerArquivo()
+comment2.text=\r\n\ lerArquivo()\ faz\ a\ leitura\ do\ arquivo\ saves.txt\ e\ retorna\ um\ Map<String,\ Integer>\r\n\ \r\n\ @param\ null\r\n\ @return\ Map<String,\ Integer>\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=pontuacoes
+comment3.target=java.util.Map\ removerRepetidos(java.util.Map)
+comment3.text=\r\n\ removerRepetidos()\ remove\ as\ pontuac\u00F5es\ repetidas\ e\ mantem\ apenas\ a\ maior\ pontuac\u00E3o\r\n\ \r\n\ @param\ Map<String,\ Integer>\ pontuacoes\ [recebe\ a\ o\ objeto\ Map<String,\ Integer>\ do\ metodo\ lerArquivo]\r\n\ @return\ Map<String,\ Integer>\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment4.params=nomeArquivo\ pontuacoes
+comment4.target=void\ escreverArquivo(java.lang.String,\ java.util.Map)
+comment4.text=\r\n\ escreverArquivo()\ registra\ no\ arquivo\ desejado\ com\ um\ objeto\ Map<String,\ Integer>\r\n\ \r\n\ @param\ \r\n\ \ String\ nomeArquivo\ [nome\ do\ arquivo\ a\ ser\ editado]\r\n\ \ Map<String,\ Integer>\ pontuacoes\ [lista\ de\ pontuac\u00F5es\ a\ ser\ gravadas]\ \r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment5.params=nomeArquivoAntigo\ nomeArquivoNovo
+comment5.target=void\ renomearArquivo(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ renomearArquivo()\ renomeia\ o\ arquivo\ desejado\r\n\ \r\n\ @param\ \r\n\ \ String\ nomeArquivoAntigo\r\n\ \ String\ nomeArquivoNovo\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment6.params=nomeArquivo
+comment6.target=void\ apagarArquivo(java.lang.String)
+comment6.text=\r\n\ apagarArquivo()\ apaga\ o\ arquivo\ desejado\r\n\ \r\n\ @param\ String\ nomeArquivo\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=7

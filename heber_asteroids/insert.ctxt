@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=insert
+comment0.text=\ insert.class\ cria\ o\ ator\ insert\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=insert()
+comment1.text=\ insert()\ construtor\ da\ classe\ insert\r\n\ \r\n\ @param\ null\r\n\ @return\ insert\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=2

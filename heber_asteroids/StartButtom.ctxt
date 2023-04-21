@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StartButtom
+comment0.text=\ StartButtom.class\ cria\ o\ ator\ StartButtom\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=StartButtom()
+comment1.text=\ StartButtom()\ construtor\ da\ classe\ StartButtom\r\n\ \r\n\ @param\ null\r\n\ @return\ StartButtom\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act()\ define\ o\ que\ o\ ator\ far\u00E1\ assim\ que\ for\ criado\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+comment3.params=
+comment3.target=void\ checkLifetime()
+comment3.text=\r\n\ checkLifetime()\ faz\ o\ bot\u00E3o\ piscar\r\n\ \r\n\ @param\ null\r\n\ @return\ null\r\n\ @author\ Heber\ Junior\r\n\ @version\ 1.0\r\n
+numComments=4
